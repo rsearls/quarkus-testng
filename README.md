@@ -109,3 +109,5 @@ Results
   Running just a single test, the above message is never printed.
 
 
+**Quarkus issue filed:**  https://github.com/quarkusio/quarkus/issues/7036
+          Issues with new requirement of testng for testing
