@@ -111,3 +111,7 @@ Results
 
 **Quarkus issue filed:**  https://github.com/quarkusio/quarkus/issues/7036
           Issues with new requirement of testng for testing
+          
+The was a question about the required use of testng.
+quakus arquillian is using it.  See the stacktrace provided in file
+ xstacktrace.txt.       
